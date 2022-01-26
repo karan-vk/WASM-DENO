@@ -1,0 +1,8 @@
+{
+  "lldb.adapterEnv": {
+    "LLDB_DEBUGSERVER_PATH": "/Users/reselbob/Projects/fortunes-wasm/lldbconfig"
+  },
+  "deno.enable": true,
+  "deno.lint": true,
+  "deno.unstable": true
+}
